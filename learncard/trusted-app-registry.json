@@ -26,7 +26,7 @@
             "address": "406 Lazy Creek Lane, Nashville, TN 37211"
         },
         "url": "https://www.learningeconomy.io/", 
-        "did": "did:web:network.learncard.com:users:smurflolef",
+        "did": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
         "profileId": "smurflolef",
         "app": {
             "name": "Kyle's App",
