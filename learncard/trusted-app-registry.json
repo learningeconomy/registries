@@ -20,6 +20,24 @@
         }
     },
     { 
+        "id": "Sync60", 
+        "organization": {
+            "name": "Sync60, LLC",
+            "address": "Durham, NC 27705"
+        },
+        "url": "https://www.sync60.io/", 
+        "did": "did:web:network.learncard.com:users:sync60ler",
+        "profileId": "Sync60LER",
+        "app": {
+            "name": "Sync60",
+            "description": "Bridging Skill to Opportunities",
+            "icon": "https://cdn.filestackcontent.com/bcmhGWWHRuWReP8zZF47",
+            "allowSendingAdditionalVPs": true,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": true
+        }
+    },
+    { 
         "id": "Kyle Dev", 
         "organization": {
             "name": "Learning Economy Foundation",
