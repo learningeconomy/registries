@@ -15,7 +15,28 @@
             "connectUrl": "https://my.smartresume.com/createmyresume/learncard",
             "redirectUrl": "https://www.smartresume.com/redirect",
             "allowSendingAdditionalVPs": false,
-            "publicizeOnLaunchPad": true
+            "publicizeOnLaunchPad": true,
+            "isTrusted": true
+        }
+    },
+    { 
+        "id": "Kyle Dev", 
+        "organization": {
+            "name": "Learning Economy Foundation",
+            "address": "406 Lazy Creek Lane, Nashville, TN 37211"
+        },
+        "url": "https://www.learningeconomy.io/", 
+        "did": "did:web:network.learncard.com:users:smurflolef",
+        "profileId": "smurflolef",
+        "app": {
+            "name": "Kyle's App",
+            "description": "Testing Dev Stuff",
+            "icon": "",
+            "connectUrl": "",
+            "redirectUrl": "",
+            "allowSendingAdditionalVPs": false,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": false
         }
     }
 ]
