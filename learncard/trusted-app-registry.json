@@ -20,6 +20,24 @@
         }
     },
     { 
+        "id": "LearnFleet", 
+        "organization": {
+            "name": "LearnFleet, Academy",
+            "address": "123 Spaceship Drive, Galaxy 1"
+        },
+        "url": "https://www.learncard.com/", 
+        "did": "did:web:network.learncard.com:users:learnfleet-academy",
+        "profileId": "learnfleet-academy",
+        "app": {
+            "name": "LearnFleet Academy",
+            "description": "Intergalactic Excellence",
+            "icon": "https://cdn.filestackcontent.com/lq3smJpRLSNQCD0Nt5Qm",
+            "allowSendingAdditionalVPs": true,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": true
+        }
+    },
+    { 
         "id": "Sync60", 
         "organization": {
             "name": "Sync60, LLC",
