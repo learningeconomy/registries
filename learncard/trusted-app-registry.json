@@ -34,7 +34,7 @@
             "icon": "https://cdn.filestackcontent.com/lq3smJpRLSNQCD0Nt5Qm",
             "allowSendingAdditionalVPs": true,
             "publicizeOnLaunchPad": false,
-            "isTrusted": false
+            "isTrusted": true
         }
     },
     { 
