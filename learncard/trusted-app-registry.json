@@ -28,6 +28,7 @@
         "url": "https://www.learncard.com/", 
         "did": "did:web:network.learncard.com:users:learnfleet-academy",
         "profileId": "learnfleet-academy",
+        "isTrusted": true,
         "app": {
             "name": "LearnFleet Academy",
             "description": "Intergalactic Excellence",
