@@ -8,6 +8,7 @@
         "url": "https://www.smartresume.com/", 
         "did": "did:web:network.learncard.com:users:smartresume",
         "profileId": "SmartResumeTestProfileId",
+        "isTrusted": true,
         "app": {
             "name": "SmartResume",
             "description": "Job & Talent Marketplace",
@@ -47,6 +48,7 @@
         "url": "https://www.sync60.io/", 
         "did": "did:web:network.learncard.com:users:sync60ler",
         "profileId": "Sync60LER",
+        "isTrusted": true,
         "app": {
             "name": "Sync60",
             "description": "Bridging Skill to Opportunities",
@@ -65,6 +67,7 @@
         "url": "https://www.learningeconomy.io/", 
         "did": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
         "profileId": "smurflolef",
+        "isTrusted": false,
         "app": {
             "name": "Kyle's App",
             "description": "Testing Dev Stuff",
