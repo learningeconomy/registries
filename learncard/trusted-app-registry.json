@@ -78,6 +78,27 @@
         }
     },
     { 
+        "id": "Comm 2 Dev", 
+        "organization": {
+            "name": "Learning Economy Foundation",
+            "address": "406 Lazy Creek Lane, Nashville, TN 37211"
+        },
+        "url": "https://www.learningeconomy.io/", 
+        "did": "did:web:network.apis.commissioned.global:users:comm-network",
+        "profileId": "comm-network",
+        "isTrusted": false,
+        "app": {
+            "name": "Comm 2",
+            "description": "This needs to update before going live!",
+            "icon": "",
+            "connectUrl": "",
+            "redirectUrl": "",
+            "allowSendingAdditionalVPs": false,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": false
+        }
+    },
+    { 
         "id": "Kyle Dev", 
         "organization": {
             "name": "Learning Economy Foundation",
