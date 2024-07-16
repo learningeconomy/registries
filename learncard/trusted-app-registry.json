@@ -86,7 +86,7 @@
         "url": "https://www.learningeconomy.io/", 
         "did": "did:web:network.apis.commissioned.global:users:comm-network",
         "profileId": "comm-network",
-        "isTrusted": false,
+        "isTrusted": true,
         "app": {
             "name": "Comm 2",
             "description": "This needs to update before going live!",
