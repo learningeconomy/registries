@@ -95,7 +95,7 @@
             "redirectUrl": "",
             "allowSendingAdditionalVPs": false,
             "publicizeOnLaunchPad": false,
-            "isTrusted": false
+            "isTrusted": true
         }
     },
     { 
