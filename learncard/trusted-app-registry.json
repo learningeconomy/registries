@@ -21,6 +21,27 @@
         }
     },
     { 
+        "id": "World Scouting", 
+        "organization": {
+            "name": "World Scouts Bureau Inc.",
+            "address": "World Scout Bureau Global Support Centre, Kuala Lumpur, Suite 3, Level 17, Menara Sentral Vista, 150 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, MALAYSIA"
+        },
+        "url": "https://www.scout.org/", 
+        "did": "did:web:scoutnetwork.org",
+        "profileId": "",
+        "isTrusted": true,
+        "app": {
+            "name": "ScoutPass",
+            "description": "ScoutPass Wallet",
+            "icon": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoid29ybGQtb3JnYW5pemF0aW9uLW9mLXRoZS1zY291dC1tb3ZlbWVudFwvZmlsZVwveGZwODNWMU1LYW82MWFBWktnWXMucG5nIn0:world-organization-of-the-scout-movement:H7pbSnR9X3dEipwEJUshc-8s1iHDpm4CH0fufKtrikU?width=2400",
+            "connectUrl": "https://pass.scout.org/",
+            "redirectUrl": "https://pass.scout.org/",
+            "allowSendingAdditionalVPs": false,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": true
+        }
+    },
+    { 
         "id": "LearnFleet", 
         "organization": {
             "name": "LearnFleet, Academy",
