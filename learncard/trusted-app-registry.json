@@ -160,5 +160,26 @@
             "publicizeOnLaunchPad": false,
             "isTrusted": false
         }
+    },
+    { 
+        "id": "AI Passport", 
+        "organization": {
+            "name": "Learning Economy Foundation",
+            "address": "406 Lazy Creek Lane, Nashville, TN 37211"
+        },
+        "url": "https://ai-passport.netlify.app/", 
+        "did": "did:web:network.learncard.com:users:ai-passport",
+        "profileId": "ai-passport",
+        "isTrusted": true,
+        "app": {
+            "name": "AI Passport",
+            "description": "AI-Powered Learning",
+            "icon": "",
+            "connectUrl": "",
+            "redirectUrl": "",
+            "allowSendingAdditionalVPs": false,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": false
+        }
     }
 ]
