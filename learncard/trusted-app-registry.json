@@ -1,4 +1,10 @@
 [
+    {
+        "id": "LearnCard Network",
+        "url": "https://network.learncard.com",
+        "did": "did:web:network.learncard.com",
+        "isTrusted": true,
+    },
     { 
         "id": "SmartResume", 
         "organization": {
