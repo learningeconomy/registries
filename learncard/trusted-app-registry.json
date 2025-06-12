@@ -3,7 +3,21 @@
         "id": "LearnCard Network",
         "url": "https://network.learncard.com",
         "did": "did:web:network.learncard.com",
-        "isTrusted": true
+        "isTrusted": true,
+        "organization": {
+            "name": "Learning Economy Foundation",
+            "address": "406 Lazy Creek Lane, Nashville, TN 37211"
+        },        
+        "app": {
+            "name": "LearnCard App",
+            "description": "",
+            "icon": "",
+            "connectUrl": "",
+            "redirectUrl": "",
+            "allowSendingAdditionalVPs": false,
+            "publicizeOnLaunchPad": false,
+            "isTrusted": false
+        }
     },
     { 
         "id": "SmartResume", 
