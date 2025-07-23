@@ -37,7 +37,7 @@
             "connectUrl": "https://my.smartresume.com/createmyresume/learncard",
             "redirectUrl": "https://www.smartresume.com/redirect",
             "allowSendingAdditionalVPs": false,
-            "publicizeOnLaunchPad": true,
+            "publicizeOnLaunchPad": false,
             "isTrusted": true,
             "contractUri": "lc:network:network.learncard.com/trpc:contract:b03ccf6e-4aec-47f1-8290-22a55d34fb28"
         }
